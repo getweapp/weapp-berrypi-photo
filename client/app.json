@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1AAD19",
+    "navigationBarTitleText": "树莓派照片监控",
+    "navigationBarTextStyle":"light"
+  }
+}

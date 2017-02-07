@@ -1,0 +1,4 @@
+<view class="container">
+    <image class="photo" src="{{photo}}" mode="aspectFit"></image>
+    <button type="primary" bindtap="fetch">获取最新照片</button>
+</view>
